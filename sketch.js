@@ -45,7 +45,7 @@ noFill();
     rotate(angle);
   noFill();
   stroke(166, 48, 48)
-  strokeWeight(3);
+  strokeWeight(10);
   circle(0,140,20);
   
    
